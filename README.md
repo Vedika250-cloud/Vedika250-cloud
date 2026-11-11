@@ -113,16 +113,24 @@ A cloud-native task management application involving containerization, Kubernete
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vedika250-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=A78BFA&text_color=FFFFFF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedika250-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=FFFFFF" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Vedika250-cloud&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vedika250-cloud&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vedika250-cloud&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=A78BFA&currStreakLabel=60A5FA" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=Vedika250-cloud&theme=tokyonight&hide_border=true" width="70%" />
 </p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vedika250-cloud&theme=tokyonight" width="100%" />
+</p>
+
 
 ### 📈 Contribution Activity
 
