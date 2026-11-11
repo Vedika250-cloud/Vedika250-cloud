@@ -131,14 +131,8 @@ A cloud-native task management application involving containerization, Kubernete
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vedika250-cloud&theme=tokyonight" width="100%" />
 </p>
 
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedika250-cloud&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=60A5FA&line=A78BFA&point=FFFFFF" width="100%" />
-</p>
-
 ---
+
 
 ## 🤝 Let's Connect!
 
